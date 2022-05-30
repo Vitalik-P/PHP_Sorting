@@ -1,0 +1,10 @@
+{
+    "autoload": {
+        "psr-4": {
+            "AppArrs\\": "src"
+        }
+    },
+    "require": {
+        "vlucas/phpdotenv": "^5.4"
+    }
+}
